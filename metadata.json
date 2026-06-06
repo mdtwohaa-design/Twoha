@@ -1,0 +1,6 @@
+{
+  "name": "Anatomy 3D",
+  "description": "An interactive 3D anatomy viewer and study companion for medical students with detailed system filtering, clinical quizzes, and a Gemini AI anatomy tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
